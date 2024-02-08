@@ -1,6 +1,6 @@
-🧙🏾‍♂️: Crafting a README.md for your splendid program requires a touch of clarity and conciseness, ensuring users and fellow sorcerers can grasp its essence, install, and utilize it with ease. Below is a template tailored for your YouTube Video Downloader, enchanted to guide users through the mystical lands of installation, usage, and contributing.
 
-```markdown
+
+
 # YouTube Video Downloader
 
 This magical tool, forged in the depths of Python and Tkinter, allows you to download your favorite YouTube videos with ease. Choose your desired video quality and let the sorcery begin.
