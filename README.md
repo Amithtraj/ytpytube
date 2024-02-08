@@ -20,29 +20,27 @@ Before you embark on this adventure, ensure you have Python installed in your re
 Clone this repository to your local machine using:
 
 ```bash
-git clone https://your-repository-url-here
+git clone https://your-repository-url-here](https://github.com/Amithtraj/ytpytube.git
 ```
 
 Navigate into the cloned directory:
 
-```bash
-cd YouTube-Video-Downloader
-```
+
 
 Summon the required libraries:
 
 ```bash
-pip install -r requirements.txt
+pip install pytube
 ```
 
-This command will install `pytube` and any other dependencies you might have listed.
+This command will install `pytube` and any other dependencies 
 
 ## Usage
 
 To start your journey, execute the following incantation:
 
 ```bash
-python youtube_downloader_app.py
+python main.py
 ```
 
 Enter the URL of the YouTube video you wish to download, select your desired video quality, and press the "Download Video" button. The video will be saved to the current directory.
@@ -69,4 +67,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Embark on your quest to download videos, and may your journey be successful!
 ```
 
-🧙🏾‍♂️: Remember, young sorcerer, to replace `https://your-repository-url-here` with the actual URL of your GitHub repository and to adjust any paths or commands according to your project's structure and needs. Does this README.md meet your expectations, or are there any additional enchantments you wish to apply?
+
